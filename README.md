@@ -16,8 +16,9 @@ It is created to improve **problem solving skills, logic building, and understan
 | Pattern Problems | Star and number pattern printing programs |
 | Recursion Problems | Problems solved using recursion |
 | String Problems | Programs related to string manipulation |
-
----
+| Structure Problems | Programs using structures in C |
+| Sorting Algorithms | Programs based on sorting techniques like Bubble, Selection, Insertion |
+| File Handling | Programs related to file read, write and append operations |
 
 ## 📂 Folder Structure
 ---
